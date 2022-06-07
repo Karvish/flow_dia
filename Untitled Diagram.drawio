@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T08:15:10.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="dIt3-PI42j1XXMZRzcji" version="19.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-07T08:18:28.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="1w9GiLxZ3giWGYo3YWKM" version="19.0.1" type="github" pages="2">
   <diagram id="-4Ch9u-QG_riHgV9m6Q4" name="Page-1">
     <mxGraphModel dx="2391" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,8 +33,8 @@
         <mxCell id="nLTq_c6TepUbZyyU9ZvA-30" value="&lt;b&gt;Fnol Search&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nLTq_c6TepUbZyyU9ZvA-48" value="\chubb-studio-servicing\config\kr\default\default\icsp\ko-KR\studio.json" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="70" width="420" height="20" as="geometry" />
+        <mxCell id="nLTq_c6TepUbZyyU9ZvA-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;https://kr.studio.chubb.com/myaccount/kr/default/default/icsp/ko-KR/&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="90" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nLTq_c6TepUbZyyU9ZvA-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nLTq_c6TepUbZyyU9ZvA-30" target="nLTq_c6TepUbZyyU9ZvA-30">
           <mxGeometry relative="1" as="geometry" />
